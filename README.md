@@ -1,20 +1,3 @@
-&lt;!-- SPDX-License-Identifier: GPL-3.0-or-later --&gt;
-&lt;!-- DISCLAIMER: This repository is for EDUCATIONAL PURPOSES ONLY. Misuse is illegal and unethical. --&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://techchip.net/wp-content/uploads/2020/04/camphish.jpg" alt="CamPhish logo" width="200"/&gt;
-&lt;/p&gt;
-
-&lt;h1 align="center"&gt;CamPhish – Ethical Camera-Access Red-Team Tool&lt;/h1&gt;
-
-&lt;p align="center"&gt;
-  &lt;a href="https://github.com/techchipnet/CamPhish/releases"&gt;&lt;img src="https://img.shields.io/github/v/release/techchipnet/CamPhish?include_prereleases"/&gt;&lt;/a&gt;
-  &lt;a href="https://www.gnu.org/licenses/gpl-3.0"&gt;&lt;img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"/&gt;&lt;/a&gt;
-  &lt;a href="https://www.youtube.com/techchipnet"&gt;&lt;img src="https://img.shields.io/badge/YouTube-TechChip-red?style=flat&logo=youtube"/&gt;&lt;/a&gt;
-&lt;/p&gt;
-
----
-
 ## ⚠️ LEGAL & ETHICAL NOTICE
 This project is **strictly intended for authorized penetration-testing engagements, red-team exercises, and academic research**.  
 **Using CamPhish against anyone without explicit, written consent is illegal and unethical.**  
